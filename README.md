@@ -1,6 +1,6 @@
 # Clusterring-of-recipes
 
-n Machine Learning, the types of Learning can broadly be classified into three types:
+In Machine Learning, the types of Learning can broadly be classified into three types:
 
 - Supervised Learning
 - Unsupervised Learning 
